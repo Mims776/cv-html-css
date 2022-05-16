@@ -1,0 +1,470 @@
+
+
+
+
+
+#headerinfo{
+    display:flex;
+    background-color:black;
+    opacity: 80%;
+   
+    padding: 2%;
+    margin: 0%;
+    border-radius: 15%;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+#mimss{
+    border-color: gold;
+    background-color:#0065FC;
+    opacity: 90%
+    ;
+    width: 80%;
+    margin-left: 48px;
+}
+    
+
+#photo1{
+    width: 100%;
+  border-radius: 10%;
+  opacity: none;
+  
+margin-left: 70%;
+    margin-top: -2%;
+    box-shadow: 0 0 20px #0065FC;
+
+      
+      
+  }
+  
+.mims{
+    line-height: 30px;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    height: 60px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    margin: 20%;
+    padding: 0%;
+    margin-top: 0%;
+    border-radius: 10%;
+    
+
+   
+}
+.photo{
+width: 10rem;
+height: 10px;
+opacity: none
+;
+
+}
+#qualitecompetence{
+    display: flex;
+   justify-content: space-around;
+   animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: inherit;
+
+
+    
+    
+}
+
+@keyframes slidein {
+    from {
+      margin-top: 15%;
+      width: 100%;
+    }
+  
+    to {
+      margin-bottom:  10%;
+      width: 100%;
+     
+    }
+    
+}
+ 
+  
+   
+ 
+
+  
+   
+ 
+
+
+ 
+
+
+h1{
+    font-weight: bold;
+    font-size: 16px;
+
+    
+}
+
+h2{
+    font-weight: bold;
+    font-size: 16px;
+    color: #0065FC;
+}
+h3{
+    color: #0000ff ;
+    font-weight: bold;
+font-size: 15px;
+}
+p{
+    font-size: 14px;
+    color: grey;
+    font-weight: bold;
+    margin-top: 1%;
+    
+
+}
+li{
+    color:grey;
+    font-weight: bold;
+    margin-right: 15%;
+    line-height: 25px;
+  
+    
+}
+#competences{
+    background-color: #f2f2f2 ;
+   padding: 11.8%;
+  opacity: 50%;
+}
+
+  
+   
+   
+  
+   
+   
+
+#experiences{
+    background-color: #0065FC;
+    opacity: 50%
+    ;
+    padding: 10.1%;
+    margin: 0%;
+}
+  
+
+
+#outil{
+    margin-top: 40px;
+    text-align: center;
+}
+
+#info{
+    text-align: center;
+    margin-left: 5%;
+    
+}
+
+#language {
+    margin-top: -35%;
+    text-align: center;
+}
+#langue{
+    margin-top: 15%;
+}
+
+#quality{
+    margin-top: 15%;
+}
+
+#contact{ margin-top: 15%;}
+
+
+.lang , .cont , .qual , .lang , .ang , .log , .dorancoo {
+   
+    flex-wrap: wrap;
+    border: 3px white solid;
+    border-radius: 30px;
+    background-color: #fff;
+    display: block;
+    margin: 15px;
+    font-size: 14px;
+margin-left: 1.5%;
+margin-right: 1.5%;
+box-shadow: 0 0 16px #0000002e;
+}
+
+
+
+.mail{
+    margin-left: -10%;
+    font-style:italic;
+    color: black
+}
+
+
+.diplome{
+    margin-top: -16%;
+}
+
+
+
+.doranco ,.bac {
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+.formation , .open , .loreal , .exp  , .bac , .open , .stmaur{
+    color:white;
+    text-align: center;
+   
+}
+
+
+
+.ger , .Sport , .car , .intergr , .acquis , .acquis2{
+    color: white;
+    flex-wrap: wrap;
+    border: 6px white solid;
+    border-radius: 30px;
+    background-color: #fff;
+    display: block;
+    margin: 15px;
+    font-size: 14px;
+margin-left: 1.5%;
+margin-right: 0.5%;
+box-shadow: 0 0 60px #0000002e;
+}
+
+.enq{
+    color:#fff;
+    font-weight: bold;
+}
+
+.formation{
+    margin-top: -20%;
+}
+
+
+#icone1{
+   
+    display: flex;
+}
+
+.tel{
+    margin-top: -2%;
+}
+
+.tell{
+    font-style:italic;
+    color: black
+}
+
+.eng{
+    font-style:italic;
+    color: black;
+
+}
+#engg{
+    display: flex;
+  
+}
+#icone1 i{
+    color:#0065FC
+}
+
+.fa-html5{
+    color: red;
+}
+
+.html{
+    display: flex;
+}
+
+#html5 i{
+    color: red;
+}
+
+.fa-css3{
+    color:#0000ff;
+}
+.fa-github-square{
+    color: #0065FC;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 3px;
+}
+
+.fa-envelope-o{
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.fa-mobile{
+    color: gold;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.htmll{
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.css3{
+    color: #0000ff;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.integr1{
+    margin-top: -6%;
+}
+.integr2{
+    margin-top: 4%;
+}
+
+#quality{
+    text-align:center;
+}
+
+
+#contact , #langue {
+    text-align: center;
+}
+
+.loisirs {
+    text-align: center;
+    color: white;
+    flex-wrap: wrap;
+    border: 6px white solid;
+    border-radius: 30px;
+    background-color: #fff;
+    display: block;
+    margin: 15px;
+    font-size: 14px;
+margin-left: 1.5%;
+margin-right: 0.5%;
+box-shadow: 0 0 60px #0000002e;
+}
+
+.centre{
+    color:#0065FC;
+    text-align: center;
+}
+
+.sporrr , .loisirr{
+    text-align: center;
+    color: white;
+    flex-wrap: wrap;
+    border: 6px white solid;
+    border-radius: 30px;
+    background-color: #fff;
+    display: block;
+    margin: 15px;
+    font-size: 14px;
+margin-left: 1.5%;
+margin-right: 0.5%;
+box-shadow: 0 0 60px #0000002e;
+
+}
+.sporr , .Loisirrs{
+    color: #0065FC;
+    margin-right: 20%;
+}
+
+.centre{
+    margin-bottom: 20px;
+}
+
+#languages{
+    margin-top:15%;
+}
+
+.fa-java{
+   color: blue;
+   margin-left: 1%;
+   margin-top: 5%;
+   font-size: 16px;
+   font-weight: bold;
+   margin-left: 3px;
+}
+
+.fa-node-js{
+    color: gold;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.fa-wordpress{
+    color: blue;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+
+}
+
+.fa-php{
+    color: purple;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+    margin-left: 3px;
+}
+
+.fa-code{
+    color :#0065FC;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+
+}
+
+.fa-film{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.fa-file-word{
+    color :#0065FC;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+    
+
+}
+
+.fa-plane{
+    color:grey;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.fa-basketball-ball{
+    color: orange;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 3px;
+}
+
+.fa-futbol{
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 6px;
+}
+
+.acq{
+    margin-bottom: 2px;
+}
